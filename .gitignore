@@ -32,3 +32,4 @@ terraform.rc
 # Other files
 **/.DS_Store
 .terraform/
+terraform.rc
